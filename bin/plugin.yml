@@ -1,0 +1,9 @@
+name: Coords
+version: 1.0
+author: Tinuy
+main: me.tinuy.coords.Main
+prefix: Coords
+commands:
+   sand:
+      description: Gives you the sand coords
+      usage: /sand
